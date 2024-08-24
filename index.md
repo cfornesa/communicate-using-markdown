@@ -23,3 +23,14 @@ Inserting a JavaScript code block to initialize a variable called "myVar" which 
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+
+## Creating a task list
+
+Inserting a task list to create an example to-do list that can be useful for tracking issues and pull requests, as well as checking their progress.
+
+### First Day on GitHub - GitHub Skills
+
+- [x] Introduction to GitHub
+- [ ] Communicate using Markdown
+- [ ] GitHub Pages
